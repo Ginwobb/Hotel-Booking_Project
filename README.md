@@ -18,14 +18,14 @@ The “Hotel Book” project is focused on creating a user-friendly web applicat
 
 ## GitHub Repositories
 ### Front End (Client)
-https://github.com/NuttavichBig/CC18-GroupProject-Client
-### Back End (Server)
-https://github.com/NuttavichBig/CC18-GroupProject-Server
+https://github.com/Ginwobb/HotelBooking_Project-Client.git
+### Back End (Server) 
+https://github.com/Ginwobb/HotelBooking_Project-Server.git
 
 ## Collaborators
 - Ginwobb (Full Stack)
-    - GitHub : Ginwobb
-    - Email : suphapinya.smj@gmail.com
+    - GitHub : NuttavichBig 
+    - Email : nuttavich.si@gmail.com  
 - nitileo (Full Stack)
     - Github : nitileo
     - Email : nitipong.leo@gmail.com
@@ -40,6 +40,6 @@ https://github.com/NuttavichBig/CC18-GroupProject-Server
 This project is licensed belong to all collaborators
 
 ## Contact
-- Name : Nuttavich Sirivijitkul
-- Email : nuttavich.si@gmail.com
-- GitHub : NuttavichBig
+- Name : Suphapinya Nundechabordi
+- Email : suphapinya.smj@gmail.com 
+- GitHub : Ginwobb
