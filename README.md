@@ -23,7 +23,7 @@ https://github.com/Ginwobb/HotelBooking_Project-Client.git
 https://github.com/Ginwobb/HotelBooking_Project-Server.git
 
 ## Collaborators
-- Ginwobb (Full Stack)
+- NuttavichBig (Full Stack)
     - GitHub : NuttavichBig 
     - Email : nuttavich.si@gmail.com  
 - nitileo (Full Stack)
